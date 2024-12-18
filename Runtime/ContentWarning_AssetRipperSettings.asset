@@ -82,7 +82,7 @@ MonoBehaviour:
     outputPath: Resources
     exclude: 0
   - key: Scenes
-    sourceName: Scenes
+    sourceName: 8_SCENES
     outputPath: Scenes
     exclude: 0
   - key: Scripts
@@ -125,6 +125,10 @@ MonoBehaviour:
     sourceName: VideoClip
     outputPath: Videos
     exclude: 0
+  - key: OcclusionCullingData
+    sourceName: OcclusionCullingData
+    outputPath: Scenes\OcclusionCullingData
+    exclude: 0
   _foldersToCopy:
   - AnimationClip
   - AnimatorController
@@ -154,6 +158,7 @@ MonoBehaviour:
   - StreamingAssets
   - VideoClip
   - Scripts\Assembly-CSharp
+  - ComputeShader
   _filesToExcludeFromCopy: []
   _foldersToExcludeFromRead:
   - Scripts\Unity.Burst

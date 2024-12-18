@@ -201,6 +201,14 @@ MonoBehaviour:
     sourceName: Assembly-CSharp-firstpass.dll
     outputPath: 
     exclude: 0
+  - key: 
+    sourceName: LocalizationAssembly.dll
+    outputPath: 
+    exclude: 0
+  - key: 
+    sourceName: ModalAssembly.dll
+    outputPath: 
+    exclude: 0
   _scriptDllFoldersToCopy: []
   _ignoredDllPrefixes:
   - System.

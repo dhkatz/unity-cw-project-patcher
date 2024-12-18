@@ -9,6 +9,7 @@ namespace Dhkatz.ContentWarningProjectPatcher.Editor.Editor
         public static void GetSteps(StepPipeline pipeline)
         {
             pipeline.SetInputSystem(InputSystemType.InputSystem_New);
+            pipeline.IsUsingAddressables();
             pipeline.SetGameViewResolution("16:9");
             pipeline.OpenSceneAtEnd("NewMainMenu");
         }
