@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Content Warning Project Patcher</h1>
 
-  <img src="Assets~/header.jpg"  alt="Content Warning Branding Image"/>
+  <img src="Assets~/header.png"  alt="Content Warning Branding Image" height="150" />
 
   <p>
     A game wrapper that generates a Unity project from Content Warning's build that can be playable in-editor.
