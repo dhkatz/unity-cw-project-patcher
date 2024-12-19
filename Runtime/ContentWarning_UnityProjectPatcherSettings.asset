@@ -209,6 +209,14 @@ MonoBehaviour:
     sourceName: ModalAssembly.dll
     outputPath: 
     exclude: 0
+  - key: 
+    sourceName: MonoMod.Utils.dll
+    outputPath: 
+    exclude: 0
+  - key: 
+    sourceName: MonoMod.RuntimeDetour.dll
+    outputPath: 
+    exclude: 0
   _scriptDllFoldersToCopy: []
   _ignoredDllPrefixes:
   - System.
