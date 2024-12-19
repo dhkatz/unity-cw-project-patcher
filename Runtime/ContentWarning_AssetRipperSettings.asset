@@ -127,7 +127,7 @@ MonoBehaviour:
     exclude: 0
   - key: OcclusionCullingData
     sourceName: OcclusionCullingData
-    outputPath: Scenes\OcclusionCullingData
+    outputPath: OcclusionCullingData
     exclude: 0
   - key: 8_SCENES
     sourceName: 8_SCENES
